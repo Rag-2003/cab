@@ -230,7 +230,7 @@
   
   .header.active .header-top {
     position: fixed;
-    background: var(--gunmetal);
+    background:rgba(211, 17, 17, 0.607)
   }
   
   .header-top .container {
@@ -672,7 +672,7 @@
   \*-----------------------------------*/
   
   .cta {
-    background: var(--bright-navy-blue);
+    background: var(--black);
     padding-block: var(--section-padding);
   }
   
@@ -689,7 +689,7 @@
   \*-----------------------------------*/
   
   .footer-top {
-    background: var(--gunmetal);
+    background: var(--black);
     padding-block: var(--section-padding);
     color: var(--gainsboro);
   }
@@ -765,7 +765,7 @@
   .footer-form .btn { width: 100%; }
   
   .footer-bottom {
-    --gunmetal: hsl(205, 36%, 17%);
+    --gunmetal: hsl(207, 47%, 4%);
     background: var(--gunmetal);
     padding-block: 20px;
     text-align: center;
