@@ -825,7 +825,7 @@
     right: 15px;
     width: 35px;
     height: 35px;
-    background: var(--bright-navy-blue);
+    background: var(--black);
     color: var(--white);
     display: grid;
     place-items: center;
